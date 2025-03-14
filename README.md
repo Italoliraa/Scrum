@@ -1,5 +1,14 @@
 # Análise crítica sobre aplicação do Scrum - Case de Sucesso da Sony
 
+O Scrum é um framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção a um objetivo em comum. A estrutura descreve um conjunto de reuniões, ferramentas e funções para uma entrega eficiente de projetos.
+
+## Cases de Sucesso
+
+* Case: Sony - [Sony - Success Story - agile42 ](https://www.agile42.com/en/success-stories/success-story-sony)
+* Case: Intel - [Intel-case-study.pdf (michaeljames.org) ](http://www.michaeljames.org/Intel-case-study.pdf)
+* Case: H&R Block - H&R Block | Agile Project Management Case Study | Braintrust Consulting Group (braintrustgroup.com) 
+
+## Case Escolhido
 * Sony – História de sucesso <br>
 https://www.agile42.com/en/success-stories/success-story-sony
 
