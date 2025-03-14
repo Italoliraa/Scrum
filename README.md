@@ -21,6 +21,6 @@ O que você faria diferente?
 * Teria estruturado melhor a comunicação entre times para evitar dificuldades na adaptação do papel de Product Owner com a equipe do Japão.
   
 Outros tópicos interessantes... <br>
-Importância do Coaching Ágil: A presença de um coach foi essencial para ajustar o framework Scrum às necessidades reais do projeto, evitando uma aplicação engessada do método. <br>
-Resistência à Mudança: A reação inicial negativa da equipe mostra a importância de uma boa gestão da mudança ao adotar novas metodologias. <br>
-Impacto na Cultura Organizacional: O sucesso do Scrum nesse projeto fez com que a equipe de software se destacasse dentro da empresa, provando que metodologias ágeis bem aplicadas podem melhorar significativamente a eficiência e o reconhecimento interno.
+* Importância do Coaching Ágil: A presença de um coach foi essencial para ajustar o framework Scrum às necessidades reais do projeto, evitando uma aplicação engessada do método. <br>
+* Resistência à Mudança: A reação inicial negativa da equipe mostra a importância de uma boa gestão da mudança ao adotar novas metodologias. <br>
+* Impacto na Cultura Organizacional: O sucesso do Scrum nesse projeto fez com que a equipe de software se destacasse dentro da empresa, provando que metodologias ágeis bem aplicadas podem melhorar significativamente a eficiência e o reconhecimento interno.
