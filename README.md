@@ -33,3 +33,15 @@ Outros tópicos interessantes... <br>
 * Importância do Coaching Ágil: A presença de um coach foi essencial para ajustar o framework Scrum às necessidades reais do projeto, evitando uma aplicação engessada do método. <br>
 * Resistência à Mudança: A reação inicial negativa da equipe mostra a importância de uma boa gestão da mudança ao adotar novas metodologias. <br>
 * Impacto na Cultura Organizacional: O sucesso do Scrum nesse projeto fez com que a equipe de software se destacasse dentro da empresa, provando que metodologias ágeis bem aplicadas podem melhorar significativamente a eficiência e o reconhecimento interno.
+
+# Pilares e Valores do Scrum
+![image](https://github.com/user-attachments/assets/74c94c47-c401-41e4-b8dd-71de2485560c)
+
+# Scrum Team, Eventos e Artefatos
+![image](https://github.com/user-attachments/assets/e43700e2-ce59-4307-94a9-2f0a5924193a)
+
+# Eventos no Scrum
+![image](https://github.com/user-attachments/assets/0757d16a-81a1-4f18-9962-d72fef5f346c)
+
+## Links
+* Bord do Miro: https://miro.com/welcomeonboard/M2xMYTZFa3l3azN4dDhuQmVqNnpZQzJHKzd6ZlRFM3Z2aitwQStUNlZqbW0yRW5sSWR2bXh5VU9pZVdpZmpOWndQd3l6em0zeGVTWVdXa3I2VFkvNDlhZWpLbHdnRXJ2Y3JnaEh2VDRtSER5UWpOWUU3Y09kK0VLSDJMUmhONnV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=232172042053
